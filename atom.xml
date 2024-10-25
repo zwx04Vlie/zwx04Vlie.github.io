@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Fomalhaut🥝</title>
+  <title>lie的贝壳🧬</title>
   
   
-  <link href="https://www.fomal.cc/atom.xml" rel="self"/>
+  <link href="https://zwx04vlie.github.io/atom.xml" rel="self"/>
   
-  <link href="https://www.fomal.cc/"/>
-  <updated>2024-10-24T14:17:07.098Z</updated>
-  <id>https://www.fomal.cc/</id>
+  <link href="https://zwx04vlie.github.io/"/>
+  <updated>2024-10-25T10:54:13.583Z</updated>
+  <id>https://zwx04vlie.github.io/</id>
   
   <author>
-    <name>Fomalhaut🥝</name>
+    <name>V_lie</name>
     
   </author>
   
@@ -18,17 +18,19 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://www.fomal.cc/posts/4a17b156.html"/>
-    <id>https://www.fomal.cc/posts/4a17b156.html</id>
+    <link href="https://zwx04vlie.github.io/posts/4a17b156.html"/>
+    <id>https://zwx04vlie.github.io/posts/4a17b156.html</id>
     <published>2024-10-24T14:16:41.730Z</published>
-    <updated>2024-10-24T14:17:07.098Z</updated>
+    <updated>2024-10-25T10:54:13.583Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start">Quick Start</h2><h3 id="Create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="一切的开始">一切的开始</h2><p>Welcome to <a href="https://hexo.io/">Hexo</a>!or<a href="https://hexo.io/zh-cn/">Hexo_ZH</a>！</p><h2 id="第一个程序">第一个程序</h2><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//VSCode终端</span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">(<span class="type">void</span>)</span></span><br><span class="line">&#123;</span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">&quot;hello world!\n&quot;</span>);</span><br><span class="line">    getchar();</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p><strong>hello world保平安</strong></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h2 id=&quot;一切的开始&quot;&gt;一切的开始&lt;/h2&gt;
+&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;!or&lt;a href=&quot;https://hexo.io/zh-cn/&quot;&gt;Hexo_ZH&lt;/a&gt;！&lt;/p&gt;
+&lt;h2 id=&quot;第一个程</summary>
       
     
     
@@ -38,8 +40,8 @@
   
   <entry>
     <title>faihelp</title>
-    <link href="https://www.fomal.cc/posts/b43ecd2.html"/>
-    <id>https://www.fomal.cc/posts/b43ecd2.html</id>
+    <link href="https://zwx04vlie.github.io/posts/b43ecd2.html"/>
+    <id>https://zwx04vlie.github.io/posts/b43ecd2.html</id>
     <published>2024-10-24T13:37:28.000Z</published>
     <updated>2024-10-24T14:34:43.720Z</updated>
     
@@ -59,55 +61,9 @@
   </entry>
   
   <entry>
-    <title>Butterfly_y</title>
-    <link href="https://www.fomal.cc/posts/c7aa8caf.html"/>
-    <id>https://www.fomal.cc/posts/c7aa8caf.html</id>
-    <published>2024-10-24T13:28:27.000Z</published>
-    <updated>2024-10-24T14:17:07.095Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="一、导航设置（Navigation-Settings）">一、导航设置（Navigation Settings）</h2><p>导航栏 logo 图像设置：<br>logo：未给出具体配置，可设置为一个图像路径以在导航栏显示 logo。<br>display_title：设置为true时，会显示导航栏标题。<br>fixed：设置为false，表示导航栏不固定在页面顶部。<br>菜单设置：<br>通过menu配置项，可以定义不同的页面链接和对应的图标。例如：<br>首页: / || fas fa-home表示首页链接为根路径，图标为 Font Awesome 的fas fa-home。<br>清单||fa fa-heartbeat:下可以定义子菜单，如音乐: /music/ || fas fa-music表示音乐页面的链接和图标。</p><h2 id="二、代码块设置（Code-Blocks-Settings）">二、代码块设置（Code Blocks Settings）</h2><p>主题和样式设置：<br>theme：可以设置代码块的主题，如pale night等。<br>macStyle：设置为false，可能是不采用某种特定的 Mac 风格。<br>height_limit：设置为false，表示不限制代码块的高度。<br>word_wrap：设置为true，表示代码块中的文本可以自动换行。<br>工具栏设置：<br>copy：设置为true，表示显示复制代码的按钮。<br>language：设置为true，表示显示代码块的语言标识。<br>shrink：设置为false，表示不收缩代码块，也可以设置为true收缩代码块或none隐藏收缩按钮并展开代码块。<br>fullpage：设置为false，表示不启用全屏显示代码块的功能。</p><h2 id="三、社交媒体链接设置（Social-media-links）">三、社交媒体链接设置（Social media links）</h2><p>可以通过配置social项来添加社交媒体链接，格式为图标: 链接 || 描述 || 颜色，例如：<br>fab fa-github: <a href="https://github.com/xxxxx">https://github.com/xxxxx</a> || Github || '#24292e’表示添加了一个指向 GitHub 的链接，图标为 Font Awesome 的 GitHub 图标，描述为Github，颜色为#24292e。</p><h2 id="四、图像设置（Image-Settings）">四、图像设置（Image Settings）</h2><p>网站图标和头像设置：<br>favicon：设置网站的图标路径，如/img/favicon.png。<br>avatar：可以设置头像的图像路径和是否应用特效。<br>页面横幅图像设置：<br>disable_top_img：设置为false，表示不禁用所有页面的横幅图像。<br>default_top_img：如果某个页面没有设置特定的横幅图像，将显示默认的横幅图像。<br>可以为特定页面如首页、存档页、标签页、分类页等设置单独的横幅图像。<br>tag_per_img和category_per_img可以为每个标签和分类设置特定的横幅图像。<br>footer_img：设置为false，表示不设置页脚的背景图像。<br>文章封面设置：<br>cover：可以设置文章封面的显示选项，如在首页、侧边栏、存档页是否显示文章封面，以及默认封面的设置。<br>error_img：设置当图片加载失败时的替代图片路径。<br>error_404：可以配置简单的 404 页面，包括是否启用、副标题和背景图像。</p><h2 id="五、首页设置（Index-page-settings）">五、首页设置（Index page settings）</h2><p>首页顶部图像和站点信息设置：<br>index_site_info_top：设置首页站点信息的位置，如距离顶部的距离。<br>index_top_img_height：设置首页顶部图像的高度。<br>副标题设置：<br>subtitle：可以设置是否启用副标题，以及副标题的效果和来源等选项。例如，可以设置副标题的来源为第三方服务 API，如hitokoto.cn等，并可以设置副标题的效果为打字机效果。<br>首页文章布局设置：<br>index_layout：可以设置首页文章的布局方式，如封面在左信息在右、封面在右信息在左等多种布局方式。<br>首页文章内容显示设置：<br>index_post_content：可以设置在首页显示文章的介绍内容，包括显示方式（如描述、自动摘要等）和长度限制。</p><h2 id="六、文章设置（Post-Settings）">六、文章设置（Post Settings）</h2><p>目录设置：<br>toc：可以设置文章是否显示目录，以及目录的样式和选项，如是否显示数字、是否展开等。<br>版权设置：<br>post_copyright：可以设置文章的版权信息，包括是否启用、作者链接、许可证等。<br>赞助设置：<br>reward：可以设置是否启用赞助功能，以及显示的文本和二维码链接等。<br>在线编辑设置：<br>post_edit：可以设置是否启用文章在线编辑功能，以及编辑链接的地址。<br>相关文章设置：<br>related_post：可以设置是否启用相关文章功能，以及显示的文章数量和排序方式。<br>文章分页设置：<br>post_pagination：可以设置文章的分页方式，如1表示 “下一篇” 链接到旧文章，2表示链接到新文章，false表示禁用分页。<br>文章过期通知设置：<br>noticeOutdate：可以设置是否启用文章过期通知，包括通知的样式、显示时间限制和位置等。</p><h2 id="七、页脚设置（Footer-Settings）">七、页脚设置（Footer Settings）</h2><p>所有者信息设置：<br>footer：可以设置页脚的所有者信息，包括是否启用、起始年份等。<br>copyright：设置为true时，会显示主题和框架的版权信息。</p><h2 id="八、侧边栏设置（Aside-Settings）">八、侧边栏设置（Aside Settings）</h2><p>侧边栏显示设置：<br>aside：可以设置侧边栏的显示选项，如是否启用、隐藏按钮、位置等。<br>display：可以设置在侧边栏显示的内容，如存档、标签、分类等。<br>card_author：可以设置作者卡片的显示选项，包括描述、按钮等。<br>card_announcement：可以设置公告卡片的显示内容。<br>card_recent_post：可以设置最近文章卡片的显示选项，如显示数量、排序方式等。<br>card_newest_comments：可以设置最新评论卡片的显示选项，如是否启用、显示数量、排序方式等。<br>card_categories：可以设置分类卡片的显示选项，如显示数量、是否展开等。<br>card_tags：可以设置标签卡片的显示选项，如显示数量、颜色、排序方式等。<br>card_archives：可以设置存档卡片的显示选项，如类型、格式、排序方式等。<br>card_post_series：可以设置文章系列卡片的显示选项。<br>card_webinfo：可以设置网站信息卡片的显示选项，如文章数量、最后更新日期等。</p><h2 id="九、右下角按钮设置（Bottom-right-button）">九、右下角按钮设置（Bottom right button）</h2><p>按钮位置设置：<br>rightside_bottom：设置右下角按钮距离底部的距离。<br>语言转换设置：<br>translate：可以设置是否启用语言转换功能，包括按钮的文本、默认语言、转换延迟等选项。<br>阅读模式设置：<br>readmode：设置为true时，启用阅读模式。<br>黑暗模式设置：<br>darkmode：可以设置黑暗模式的显示选项，如是否启用、切换按钮、自动切换模式等。<br>按钮顺序设置：<br>rightside_item_order：可以设置右下角按钮的显示顺序。</p><h2 id="十、全局设置（Global-Settings）">十、全局设置（Global Settings）</h2><p>锚点设置：<br>anchor：可以设置页面滚动时 URL 根据标题 ID 更新的选项，以及点击标题滚动并更新锚点的选项。<br>图片标题设置：<br>photofigcaption：设置为false，可能表示不启用图片标题功能。<br>复制设置：<br>copy：可以设置复制内容时的选项，如是否启用版权信息等。<br>字数统计设置：<br>wordcount：可以设置是否启用字数统计功能，包括文章字数统计、阅读时间统计、网站总字数统计等。<br>访问统计设置：<br>busuanzi：可以设置是否启用不蒜子统计功能，包括网站 UV、PV 和页面 PV 的统计。</p><h2 id="十一、数学公式设置（Math）">十一、数学公式设置（Math）</h2><p>数学公式引擎选择：<br>math：可以选择使用mathjax或katex作为数学公式引擎，也可以不使用数学公式引擎。<br>per_page：设置为true时，每个页面都会加载数学公式脚本。<br>MathJax 设置：<br>enableMenu：设置为true时，启用 MathJax 的上下文菜单。<br>tags：可以设置 MathJax 的编号方式。<br>KaTeX 设置：<br>copy_tex：设置为false，可能表示不启用复制 KaTeX 公式的功能。</p><h2 id="十二、搜索设置（Search）">十二、搜索设置（Search）</h2><p>搜索引擎选择：<br>search：可以选择使用algolia_search、local_search或docsearch作为搜索引擎，也可以不使用搜索功能。<br>不同搜索引擎的设置：<br>algolia_search：可以设置 Algolia 搜索的结果数量等选项。<br>local_search：可以设置本地搜索的预加载、显示结果数量等选项。<br>docsearch：可以设置 Docsearch 的应用 ID、API 密钥、索引名称等选项。</p><h2 id="十三、分享系统设置（Share-System）">十三、分享系统设置（Share System）</h2><p>分享系统选择：<br>share：可以选择使用sharejs或addtoany作为分享系统，也可以不使用分享功能。<br>不同分享系统的设置：<br>sharejs：可以设置 Share.js 的分享站点。<br>addtoany：可以设置 AddToAny 的分享站点。</p><h2 id="十四、评论系统设置（Comments-System）">十四、评论系统设置（Comments System）</h2><p>评论系统选择：<br>comments：可以选择使用多种评论系统，如Disqus、Disqusjs、Livere、Gitalk、Valine、Waline、Utterances、Facebook Comments、Twikoo、Giscus、Remark42、Artalk等，也可以不使用评论功能。<br>不同评论系统的设置：<br>对于每种评论系统，都有相应的配置项，如Disqus的shortname和apikey，Gitalk的client_id、client_secret、repo、owner和admin等。</p><h2 id="十五、聊天服务设置（Chat-Services）">十五、聊天服务设置（Chat Services）</h2><p>聊天服务选择：<br>chat：可以选择使用chatra、tidio或crisp作为聊天服务，也可以不使用聊天功能。<br>不同聊天服务的设置：<br>对于每种聊天服务，都有相应的配置项，如chatra的id，tidio的public_key，crisp的website_id等。</p><h2 id="十六、分析设置（Analysis）">十六、分析设置（Analysis）</h2><p>可以配置多种分析工具，如百度统计、谷歌分析、Cloudflare 分析、微软 Clarity 和 Umami 分析等，通过设置相应的配置项来启用这些分析工具。</p><h2 id="十七、广告设置（Advertisement）">十七、广告设置（Advertisement）</h2><p>Google Adsense 设置：<br>google_adsense：可以设置是否启用 Google Adsense 广告，以及自动广告、客户端等选项。<br>手动插入广告设置：<br>ad：可以在首页、侧边栏和文章中手动插入广告代码。</p><h2 id="十八、验证设置（Verification）">十八、验证设置（Verification）</h2><p>可以配置网站验证信息，如谷歌网站验证、百度网站验证等。</p><h2 id="十九、美化和效果设置（Beautify-Effect）">十九、美化和效果设置（Beautify / Effect）</h2><p>主题颜色设置：<br>theme_color：可以设置主题颜色，包括主色、分页器颜色、按钮悬停颜色等。<br>分类和标签页面 UI 设置：<br>category_ui和tag_ui：可以设置分类和标签页面的用户界面，选择与首页相同的 UI 或默认的存档页面 UI。<br>圆角设置：<br>rounded_corners_ui：设置为true时，UI 元素将显示圆角。<br>文本对齐设置：<br>text_align_justify：设置为false，表示不拉伸文本行以使每行宽度相等。<br>遮罩设置：<br>mask：可以设置在页眉和页脚添加遮罩。<br>加载动画设置：<br>preloader：可以设置加载动画的选项，如是否启用、动画类型和主题等。<br>页面过渡设置：<br>enter_transitions：设置为true时，启用页面过渡效果。<br>默认显示模式设置：<br>display_mode：可以设置默认显示模式为亮模式或暗模式。<br>文章内容美化设置：<br>beautify：可以设置是否启用文章内容美化功能，以及美化的字段、标题前缀图标和颜色等选项。<br>全局字体设置：<br>font：可以设置全局字体大小、代码字体大小、字体家族等选项。<br>博客标题字体设置：<br>blog_title_font：可以设置博客标题的字体链接和字体家族。<br>分割线图标设置：<br>hr_icon：可以设置分割线图标是否启用、图标和位置等选项。<br>激活能量模式设置：<br>activate_power_mode：可以设置是否启用激活能量模式，包括彩色效果、震动效果和是否在移动设备上启用等选项。<br>背景效果设置：<br>canvas_ribbon、canvas_fluttering_ribbon、canvas_nest、fireworks、click_heart和clickShowText等配置项可以设置不同的背景效果，如丝带效果、鼠标点击效果等。</p><h2 id="二十、灯箱设置（Lightbox-Settings）">二十、灯箱设置（Lightbox Settings）</h2><p>可以选择使用fancybox或medium_zoom作为灯箱插件，也可以不使用灯箱功能。</p><h2 id="二十一、标签插件设置（Tag-Plugins-settings）">二十一、标签插件设置（Tag Plugins settings）</h2><p>系列设置：<br>series：可以设置文章系列的显示选项，如是否启用、排序方式等。<br>ABCJS 设置：<br>abcjs：可以设置是否启用 ABCJS 音乐符号插件。<br>Mermaid 设置：<br>mermaid：可以设置是否启用 Mermaid 图表插件，以及编写 Mermaid 图表的方式和主题等选项。<br>chartjs 设置：<br>chartjs：可以设置是否启用 chartjs 图表插件，以及图表的字体颜色、边框颜色等选项。<br>Note 设置：<br>note：可以设置 Note 标签的样式，如简单风格、现代风格、扁平风格等。</p><h2 id="二十二、其他设置（Other-Settings）">二十二、其他设置（Other Settings）</h2><p>PJAX 设置：<br>pjax：可以设置是否启用 PJAX，以及排除某些页面不使用 PJAX。<br>APlayer 注入设置：<br>aplayerInject：可以设置是否启用 APlayer 注入功能，以及是否在每个页面都注入。<br>Snackbar 设置：<br>snackbar：可以设置是否启用 Snackbar 通知，以及通知的位置、背景颜色等选项。<br>Instant.page 设置：<br>instantpage：设置为false，表示不启用 Instant.page 功能。<br>Pangu 设置：<br>pangu：可以设置是否启用 Pangu 插件，以及在哪个字段（站点或文章）使用 Pangu。<br>Lazyload 设置：<br>lazyload：可以设置是否启用 Lazyload 插件，以及在哪个字段（站点或文章）使用 Lazyload。<br>PWA 设置：<br>pwa：可以设置是否启用渐进式 Web 应用（PWA）功能，以及相关的配置项。<br>Open Graph meta 标签设置：<br>Open_Graph_meta：可以设置是否启用 Open Graph meta 标签，以及相关的选项。<br>CSS 前缀设置：<br>css_prefix：设置为true时，会添加供应商前缀以确保兼容性。<br>注入设置：<br>inject：可以在页面的头部和底部注入 CSS 和脚本代码。<br>CDN 设置：<br>CDN：可以设置内部和第三方脚本的 CDN 提供商，以及版本号的添加和自定义格式等选项。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;一、导航设置（Navigation-Settings）&quot;&gt;一、导航设置（Navigation Settings）&lt;/h2&gt;
-&lt;p&gt;导航栏 logo 图像设置：&lt;br&gt;
-logo：未给出具体配置，可设置为一个图像路径以在导航栏显示 logo。&lt;br&gt;
-display</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>config_y</title>
-    <link href="https://www.fomal.cc/posts/7d7845d5.html"/>
-    <id>https://www.fomal.cc/posts/7d7845d5.html</id>
-    <published>2024-10-24T12:46:39.000Z</published>
-    <updated>2024-10-24T14:17:07.100Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="一、站点信息部分">一、站点信息部分</h2><p>title：站点标题为 “lieT 的贝壳”。<br>subtitle、description和keywords为空，你可以根据需要进行设置，以优化搜索引擎优化（SEO）。<br>author指定了作者为 “lieT”。<br>language设置为中文简体（zh-CN），timezone设置为上海时区（Asia/Shanghai）。</p><h2 id="二、URL-部分">二、URL 部分</h2><p>url设置了站点的 URL，这里使用了示例 URL，你需要将其替换为你的实际站点地址。<br>permalink定义了文章的永久链接格式，这里使用了年 / 月 / 日 / 文章标题的格式。<br>pretty_urls中的设置可以控制链接是否包含尾部的索引（index.html）和 HTML 扩展名。</p><h2 id="三、写作部分">三、写作部分</h2><p>new_post_name定义了新文章的文件名格式。<br>default_layout指定了默认的布局为 “post”。<br>titlecase设置为 false，表示不将文章标题转换为标题格式。<br>external_link设置了外部链接的行为，如在新标签页中打开等。<br>filename_case、render_drafts、post_asset_folder和relative_link等设置控制了文件命名、草稿渲染、文章资产文件夹和相对链接等方面的行为。<br>syntax_highlighter设置了代码高亮使用的工具为highlight.js，并可以进一步配置代码高亮的选项。</p><h2 id="四、首页设置部分">四、首页设置部分</h2><p>index_generator设置了首页的生成选项，包括路径、每页显示的文章数量和文章排序方式。</p><h2 id="五、分类和标签部分">五、分类和标签部分</h2><p>default_category设置了默认分类为 “uncategorized”。<br>category_map和tag_map可以用于自定义分类和标签的映射。</p><h2 id="六、元数据部分">六、元数据部分</h2><p>meta_generator设置为 true，表示生成元数据元素。</p><h2 id="七、日期和时间格式部分">七、日期和时间格式部分</h2><p>date_format和time_format定义了日期和时间的显示格式。<br>updated_option指定了更新选项，可以是 “mtime”（修改时间）、“date”（创建时间）或 “empty”。</p><h2 id="八、分页部分">八、分页部分</h2><p>per_page设置了每页显示的文章数量，pagination_dir定义了分页目录的名称。</p><h2 id="九、包含和排除文件部分">九、包含和排除文件部分</h2><p>include和exclude选项可以用于指定在 “source/” 文件夹中包含或排除的文件。<br>ignore可以忽略特定的文件或目录。</p><h2 id="十、扩展部分">十、扩展部分</h2><p>theme指定了使用的主题为 “butterfly”。<br>search设置了搜索功能的配置，包括生成的搜索文件路径、搜索的字段和是否包含文章内容。</p><h2 id="十一、部署部分">十一、部署部分</h2><p>deploy设置了部署方式为 Git，指定了仓库地址和分支。<br>总体而言，这个配置文件定义了 Hexo 站点的各个方面，包括站点信息、URL 格式、写作设置、首页设置、分类和标签、元数据、日期格式、分页、文件包含和排除、扩展以及部署方式。你可以根据自己的需求对这些设置进行调整和优化。</p><h2 id="常用命令">常用命令</h2><p>hexo generate：生成静态文章，可以用hexo g缩写</p><p>hexo deploy：部署文章，可以用hexo d缩写</p><p>hexo new &quot;我的新文章&quot;定义了新文章的文件名格式</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;一、站点信息部分&quot;&gt;一、站点信息部分&lt;/h2&gt;
-&lt;p&gt;title：站点标题为 “lieT 的贝壳”。&lt;br&gt;
-subtitle、description和keywords为空，你可以根据需要进行设置，以优化搜索引擎优化（SEO）。&lt;br&gt;
-author指定了作者为 </summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>Markdown语法与外挂标签写法汇总</title>
-    <link href="https://www.fomal.cc/posts/2013454d.html"/>
-    <id>https://www.fomal.cc/posts/2013454d.html</id>
+    <link href="https://zwx04vlie.github.io/posts/2013454d.html"/>
+    <id>https://zwx04vlie.github.io/posts/2013454d.html</id>
     <published>2022-08-09T10:19:03.000Z</published>
     <updated>2022-10-23T14:00:00.000Z</updated>
     
@@ -118,12 +74,12 @@ author指定了作者为 </summary>
     
     
     
-    <category term="演示" scheme="https://www.fomal.cc/categories/%E6%BC%94%E7%A4%BA/"/>
+    <category term="演示" scheme="https://zwx04vlie.github.io/categories/%E6%BC%94%E7%A4%BA/"/>
     
     
-    <category term="Markdown" scheme="https://www.fomal.cc/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://zwx04vlie.github.io/tags/Markdown/"/>
     
-    <category term="外挂标签" scheme="https://www.fomal.cc/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
+    <category term="外挂标签" scheme="https://zwx04vlie.github.io/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
     
   </entry>
   

@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zwx04vlie.github.io/posts/pthread0c.html</loc>
+    
+    <lastmod>2024-12-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zwx04vlie.github.io/posts/goto0c.html</loc>
+    
+    <lastmod>2024-12-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zwx04vlie.github.io/posts/002c.html</loc>
+    
+    <lastmod>2024-10-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zwx04vlie.github.io/posts/001c.html</loc>
+    
+    <lastmod>2024-10-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://zwx04vlie.github.io/posts/4a17b156.html</loc>
     
     <lastmod>2024-10-25</lastmod>
@@ -175,7 +211,7 @@
 
   <url>
     <loc>https://zwx04vlie.github.io/</loc>
-    <lastmod>2024-10-25</lastmod>
+    <lastmod>2024-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -183,14 +219,21 @@
   
   <url>
     <loc>https://zwx04vlie.github.io/tags/Markdown/</loc>
-    <lastmod>2024-10-25</lastmod>
+    <lastmod>2024-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://zwx04vlie.github.io/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
-    <lastmod>2024-10-25</lastmod>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zwx04vlie.github.io/tags/C%E8%AF%AD%E8%A8%80%E7%9B%AE%E5%BD%95/</loc>
+    <lastmod>2024-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -199,7 +242,14 @@
   
   <url>
     <loc>https://zwx04vlie.github.io/categories/%E6%BC%94%E7%A4%BA/</loc>
-    <lastmod>2024-10-25</lastmod>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zwx04vlie.github.io/categories/C%E8%AF%AD%E8%A8%80/</loc>
+    <lastmod>2024-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
